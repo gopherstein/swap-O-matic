@@ -1,6 +1,6 @@
 <snippet>
-  <content><![CDATA[
-# ${1:Swap-O-Matic}
+  <content>
+#Swap-O-Matic
 
 TODO: Add error checking and possibly tests.
 
